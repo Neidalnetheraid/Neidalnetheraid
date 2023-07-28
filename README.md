@@ -1,4 +1,5 @@
-### Hi there 👋
+### Greetings👋
+I'm a new user to Github, looking to learn how to code in this plataform! 🌱 
 
 <!--
 **Neidalnetheraid/Neidalnetheraid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
